@@ -69,4 +69,5 @@
 </div>
 
 <hr>
+[![EmreCetinsozlu's GitHub stats](https://github-stats-extended.vercel.app/api?username=emrecetinsozlu)](https://github.com/stats-organization/github-stats-extended)
 
