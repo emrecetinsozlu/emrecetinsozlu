@@ -20,8 +20,19 @@
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.codewars.com/users/cetinsozlu" target="_blank">
-    <img src="https://img.shields.io/badge/codewars-orange" target="_blank" />
+    <img src="https://img.shields.io/badge/codewars-orange?logo=codewars" target="_blank" />
   </a>
 </div>
 
 <hr>
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
+
