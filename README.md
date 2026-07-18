@@ -9,58 +9,74 @@
 
 <br>
 
-<div align="center">
-  <a href="emrecetinsozlu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:emrecetinsozlu@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/emre-c-69361817a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/emre-c-69361817a">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@emrecetinsozlu" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@emrecetinsozlu">
+    <img src="https://skillicons.dev/icons?i=md" height="48" alt="Medium"/>
   </a>
-  <a href="https://www.codewars.com/users/cetinsozlu" target="_blank">
-    <img src="https://img.shields.io/badge/codewars-orange?logo=codewars" target="_blank" />
+  &nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/cetinsozlu">
+    <img
+      src="https://cdn.simpleicons.org/codewars/B1361E"
+      height="48"
+      alt="Codewars"
+    />
   </a>
-</div>
+</p>
 
 <hr>
 ## 🛠️ Languages and Tools 
 
 <br>
 
-## Favorites Technologies!
+## 🛠️ Favorite Technologies
 
+### Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwind,html,css,figma,redux" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql,postman" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mongodb,prisma,redis,docker" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,arduino,raspberrypi,selenium" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
 </p>
 
-<hr>
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,figma" />
+</p>
+
+### Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql,postman" />
+</p>
+
+### Databases & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,firebase,supabase,docker" />
+</p>
+
+### Robotics, Automation & Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,selenium" />
+</p>
+
+
 ## ⚡️ Stats
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=emrecetinsozlu)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=emrecetinsozlu&show_icons=true&theme=radical"
+    width="49%"
+  />
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=emrecetinsozlu&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=emrecetinsozlu"
+    width="49%"
+  />
+</p>
 
