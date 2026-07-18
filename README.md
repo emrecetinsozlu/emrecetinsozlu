@@ -29,32 +29,31 @@
 
 <br>
 
-## Frontend
+## Favorites Technologies!
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwind,html,css,figma" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwind,html,css,figma,redux" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express," />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql,postman" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,express,prisma,redis" />
+    <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mongodb,prisma,redis,docker" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,arduino" />
+    <img src="https://skillicons.dev/icons?i=opencv,arduino,raspberrypi,selenium" />
   </a>
 </p>
 
