@@ -71,6 +71,13 @@
 
 
 ## ⚡️ Stats
+<p align="center">
+   <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=emrecetinsozlu"
+    width="49%"
+  />
+
+</p>
 
 <p align="center">
   <img
@@ -78,9 +85,6 @@
     width="49%"
   />
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=emrecetinsozlu"
-    width="49%"
-  />
 </p>
 
+ 
