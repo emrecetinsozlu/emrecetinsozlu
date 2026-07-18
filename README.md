@@ -60,6 +60,7 @@
 <hr>
 ## ⚡️ Stats
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=emrecetinsozlu)](https://github.com/stats-organization/github-stats-extended)
 
-[![EmreCetinsozlu's GitHub stats](https://github-stats-extended.vercel.app/api?username=emrecetinsozlu)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=emrecetinsozlu&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
