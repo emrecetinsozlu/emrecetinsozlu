@@ -17,28 +17,28 @@
   />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
-
-
-<br>
-
-<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <strong>💻 Full-Stack Software Developer</strong> •
+  ### A full-stack software developer passionate about building beautiful, functional, and user-centric web applications.
+</p>
 
 <p align="center">
+  🌐 <strong>Connect with Me</strong>
+  &nbsp;&nbsp;
   <a href="mailto:emrecetinsozlu@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="34" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/emre-c-69361817a">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="34" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://medium.com/@emrecetinsozlu">
-    <img src="https://cdn.simpleicons.org/medium" height="48" />
+    <img src="https://cdn.simpleicons.org/medium" height="34" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.codewars.com/users/cetinsozlu">
-    <img src="https://cdn.simpleicons.org/codewars/B1361E" height="48" />
+    <img src="https://cdn.simpleicons.org/codewars/B1361E" height="34" />
   </a>
 </p>
 
