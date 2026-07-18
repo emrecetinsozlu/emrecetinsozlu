@@ -56,7 +56,7 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,figma,cypress,jest" />
 </p>
 
 ### Backend & APIs
