@@ -2,16 +2,18 @@
   <img src="./thebanner.png" alt="Banner" width="100%" />
 </p>
 
+<!-- Bu satır GitHub'da görünmez
 <p align="center">
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:58A6FF,100:1F6FEB&text=Emre%20Çetinsözlü&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=58&animation=fadeIn"
   />
 </p>
-
+ -->
+ 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&height=90&lines=Hi+there!+👋;I'm+Emre+Çetinsözlü;Software+Developer;Building+Modern+Web+Applications+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&height=90&lines=Always+Learning.+Always+Building.;Software+Developer;Building+Modern+Web+Applications+🚀"
   />
 </h1>
 
