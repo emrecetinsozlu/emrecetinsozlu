@@ -13,7 +13,7 @@
  
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&height=90&lines=Always+Learning.+Always+Building.;Software+Developer;Building+Modern+Web+Applications+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=950&height=90&lines=🚀+Always+Learning+•+💡+Always+Building;👨‍💻+Software+Developer;⚛️+Building+Modern+Web+Applications+🌍"
   />
 </h1>
 
