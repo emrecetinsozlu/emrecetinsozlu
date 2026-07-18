@@ -29,11 +29,16 @@
   <a href="https://linkedin.com/in/emre-c-69361817a">
     <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
   </a>
-  <a href="https://medium.com/@emrecetinsozlu">
-    <img src="https://cdn.simpleicons.org/medium" height="28" />
-  </a>
+
   <a href="https://www.codewars.com/users/cetinsozlu">
     <img src="https://cdn.simpleicons.org/codewars/B1361E" height="28" />
+  </a>
+  <a href="https://medium.com/@emrecetinsozlu">
+    <img
+      src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"
+      height="28"
+      alt="Medium"
+    />
   </a>
 </p>
 
