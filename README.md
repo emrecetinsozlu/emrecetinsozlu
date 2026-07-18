@@ -9,6 +9,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:58A6FF,100:1F6FEB&text=Emre%20Çetinsözlü&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=58&animation=fadeIn"
   />
 </p>
+ ### A full-stack software developer passionate about building beautiful, functional, and user-centric web applications.
  -->
  
 <h1 align="center">
@@ -18,27 +19,21 @@
 </h1>
 
 <p align="center">
-  <strong>💻 Full-Stack Software Developer</strong> •
-  ### A full-stack software developer passionate about building beautiful, functional, and user-centric web applications.
-</p>
-
-<p align="center">
-  🌐 <strong>Connect with Me</strong>
-  &nbsp;&nbsp;
+  💻 <strong>Full-Stack Software Developer</strong> •
+  ⚛️ React • ▲ Next.js • ☕ Spring Boot
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  📫
   <a href="mailto:emrecetinsozlu@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="34" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="28" />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/emre-c-69361817a">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="34" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
   </a>
-  &nbsp;
   <a href="https://medium.com/@emrecetinsozlu">
-    <img src="https://cdn.simpleicons.org/medium" height="34" />
+    <img src="https://cdn.simpleicons.org/medium" height="28" />
   </a>
-  &nbsp;
   <a href="https://www.codewars.com/users/cetinsozlu">
-    <img src="https://cdn.simpleicons.org/codewars/B1361E" height="34" />
+    <img src="https://cdn.simpleicons.org/codewars/B1361E" height="28" />
   </a>
 </p>
 
