@@ -26,7 +26,7 @@
   <a href="mailto:emrecetinsozlu@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="28" />
   </a>
-  <a href="https://linkedin.com/in/emre-c-69361817a">
+  <a href="https://www.linkedin.com/in/emrecetinsozlu/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
   </a>
 
